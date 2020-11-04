@@ -1,0 +1,39 @@
+body {
+        line-height: 1.5; color: rgb(46, 11, 139); font-weight: 40; font-size: 1rem;}
+    li {display: inline;}
+    a {color:aqua;}
+    a:link {color:rgb(0, 0, 0);}
+    a:hover {color:rgb(255, 51, 0);}
+    a:visited {color:darkkhaki;}
+    div.menu {
+        background-color: white;
+        width: 500px;
+        height: 55px;
+        border: 10px dotted rgb(218, 157, 132);
+        padding: 5px;
+        margin: 0px;} 
+    ul {
+        font-family: Georgia, 'Times New Roman', Times, serif; 
+        margin-bottom: 5px; padding-inline-start: 10px;}
+    h1.name,h2.caption {
+        text-align: center; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-style: italic; font-size: 20px; color:rgb(55, 0, 255); 
+        margin-top: 10px; margin-bottom: 0.1rem; background-color: rgb(131, 207, 236);}
+
+    .image-fluid {width: 30%; height: auto;}
+        
+    .text {background-color: darkcyan; text-align: center;
+        display: block;
+        width: 500px;
+        height: 130px;
+        border: solid rgb(202, 106, 106)}
+    .paint {background-color: darkkhaki; font-style: italic; text-align: center;}
+    .dog {background-color: darkseagreen; text-align: center;
+        display: block;
+        width: 500px;
+        height: 150px;
+        border: solid rgb(202, 106, 106)}
+    .caption {
+        text-transform: uppercase; font-weight: 400; letter-spacing: .3em;
+        font-size: 20px; padding: 0px; color:greenyellow; display: inline-block;
+        text-align: center;}
